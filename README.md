@@ -1,0 +1,2 @@
+# introduction_to_numpy_arrays
+C1_W1_Lab_1_introduction_to_numpy_arrays
